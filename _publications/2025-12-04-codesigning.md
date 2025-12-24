@@ -3,7 +3,7 @@ title: "Co-Designing Multimodal Systems for Accessible Asynchronous Dance Instru
 collection: publications
 category: conferences
 permalink: /publication/2025-12-04-codesigning
-authors: 'Ujjaini Das, Shreya Kappala, Meng Chen, Mina Huh, Amy Pavel'
+citation: 'Ujjaini Das, Shreya Kappala, Meng Chen, Mina Huh, Amy Pavel'
 excerpt: 'Videos make exercise instruction widely available, but they rely on visual demonstrations that blind and low vision (BLV) learners cannot see. While audio descriptions (AD) can make videos accessible, describing movements remains challenging as the AD must convey what to do (mechanics, location, orientation) and how to do it (speed, fluidity, timing). Prior work thus used multimodal instruction to support BLV learners with individual simple movements. However, it is unclear how these approaches scale to dance instruction with unique, complex movements and precise timing constraints. To inform accessible asynchronous dance instruction systems, we conducted three co-design workshops (N=28) with BLV dancers, instructors, and experts in sound, haptics, and AD. Participants designed 8 systems revealing common themes: staged learning to dissect routines, crafting vocabularies for movements, and selectively using modalities (narration for movement structure, sound for expression, and haptics for spatial cues). We conclude with design recommendations to make learning dance accessible.'
 date: 2026-04-13
 venue: 'In Review at CHI'
