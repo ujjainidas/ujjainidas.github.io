@@ -24,9 +24,9 @@ repository               : "ujjainidas/ujjainidas.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ujjaini Das"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "HCI and accessibility researcher"
   location         : "Austin, TX"
   employer         : "University of Texas at Austin"
   uri              : # URL
