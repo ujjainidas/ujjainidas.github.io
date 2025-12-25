@@ -1,5 +1,5 @@
 ---
-title: "Co-Designing Multimodal Systems for Accessible Asynchronous Dance Instruction"
+title: "Co-Designing Multimodal Systems for Accessible Remote Dance Instruction"
 collection: publications
 category: conferences
 permalink: /publication/2025-12-04-codesigning
