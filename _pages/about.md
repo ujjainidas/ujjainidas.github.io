@@ -13,6 +13,6 @@ I am broadly excited about making learning and creativity accessible through per
 
 I have also completed three internships at [Apple](https://www.apple.com), where I worked on features for [Apple Intelligence](https://www.apple.com/apple-intelligence/) and [iOS UI/UX](https://www.idownloadblog.com/2025/06/19/use-3d-wallpaper-iphone/). I am currently a full-time engineer building camera software for future releases. 
 
-Beyond research, I enjoy dancing. I was trained in Bharatnatyam as a child and I began learning Hip-hop and House in college. I also enjoy making art, and have worked with various mediums (oil, acrylic, pastels, charcoal, graphite) for the past 10 years. 
+Beyond research, I enjoy dancing. I was trained in Bharatnatyam as a child and I began learning Hip-hop and House in college. I also enjoy making art and have worked with various mediums (oil, acrylic, pastels, charcoal, graphite) for the past 10 years. 
 
 I'm eager to connect with people about new research ideas, or just to chat! Please feel free to reach out at [ujjaini@utexas.edu](mailto:ujjaini@utexas.edu)! 
