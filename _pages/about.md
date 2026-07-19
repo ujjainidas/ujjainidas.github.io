@@ -11,6 +11,6 @@ Hi! 👋 I am a recent graduate that studied Computer Science and Robotics at [U
 
 I am broadly excited about making learning and creativity accessible through personalized and adaptive tools. I use community-centered approaches such as [co-design](https://arxiv.org/abs/2511.09658) and user-informed [system development and evaluation](https://doi.org/10.48550/arXiv.2506.00717) to amplify the voices of people underserved by technology.
 
-I have also completed three internships at [Apple](https://www.apple.com), where I worked on features for [Apple Intelligence](https://www.apple.com/apple-intelligence/) and [iOS UI/UX](https://www.idownloadblog.com/2025/06/19/use-3d-wallpaper-iphone/). I am currently an engineer building camera software for future releases. 
+I have also completed three internships at [Apple](https://www.apple.com), where I worked on features for [Apple Intelligence](https://www.apple.com/apple-intelligence/) and [iOS UI/UX](https://www.idownloadblog.com/2025/06/19/use-3d-wallpaper-iphone/). I am currently an engineer building camera software for iOS, macOS, tvOS, etc. 
 
 Beyond research, I enjoy dancing 💃, rock climbing 🧗‍♀️, and reading 📖. Please feel free to connect with me at [ujjaini@utexas.edu](mailto:ujjaini@utexas.edu)! 
