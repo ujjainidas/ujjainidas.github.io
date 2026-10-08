@@ -11,8 +11,8 @@ Hi! 👋 I am a recent graduate that studied Computer Science and Robotics at [U
 
 I am broadly excited about making learning and creativity accessible through personalized and adaptive tools. I use community-centered approaches such as [co-design](https://arxiv.org/abs/2511.09658) and user-informed [system development and evaluation](https://doi.org/10.48550/arXiv.2506.00717) to amplify the voices of people underserved by technology.
 
-I have also completed three internships at [Apple](https://www.apple.com), where I worked on features for [Apple Intelligence](https://www.apple.com/apple-intelligence/) and [iOS UI/UX](https://www.idownloadblog.com/2025/06/19/use-3d-wallpaper-iphone/). I am currently a full-time engineer building camera software and 3rd-party API support (AVCapture) across features including [Continuity Camera](https://support.apple.com/en-us/102546), [Video Effects](https://support.apple.com/en-us/105117), and [Studio Display](https://www.apple.com/studio-display/) Cameras. 
+I have also completed three internships at [Apple](https://www.apple.com), where I worked on features for [Apple Intelligence](https://www.apple.com/apple-intelligence/) and [iOS UI/UX](https://www.idownloadblog.com/2025/06/19/use-3d-wallpaper-iphone/). I am currently a full-time engineer building camera software across features including [Continuity Camera](https://support.apple.com/en-us/102546), [Video Effects](https://support.apple.com/en-us/105117), and [Studio Display](https://www.apple.com/studio-display/) Cameras. 
 
-Beyond research, I enjoy dancing. I was trained in Bharatnatyam as a child and I began learning Hip-hop and House in college. I also enjoy making art and have worked with various mediums for the past 10 years. 
+Beyond research, I enjoy dancing. I was trained in Bharatnatyam as a child and I began learning Hip-hop in college. I also enjoy making art and have worked with various mediums for the past 10 years. 
 
 I'm eager to connect with people about new research ideas, or just to chat! Please feel free to reach out at [ujjaini@utexas.edu](mailto:ujjaini@utexas.edu)! 
